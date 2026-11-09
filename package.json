@@ -1,0 +1,8 @@
+{
+  "name": "black-michael-collection",
+  "private": true,
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "check": "python3 scripts/check.py"
+  }
+}
